@@ -1,6 +1,4 @@
-﻿
-
-namespace EjercicioPolimorfismo
+﻿namespace EjercicioPolimorfismo
 {
     abstract class Animal
     {
